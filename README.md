@@ -7,13 +7,21 @@ Features
 The Train Tracker project offers the following features:
 
 Search for stations
+
 Search for trains
+
 Find trains between stations
+
 Get live train status
+
 Get live train schedule
+
 Get PNR status
+
 Check seat availability
+
 Get train classes
+
 Get fare
 
 
